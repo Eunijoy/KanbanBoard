@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url('./img/background.png')no-repeat;
+    background-size: cover;
+}
+
+section{
+    background: rgba(255, 255, 255, 0.78);
+    width: 700px;
+    margin: 40px 0 0 350px;
+}
+
+img{
+    padding-left: 10px;
+    width: 100px;
+}
